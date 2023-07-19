@@ -1,0 +1,22 @@
+C:\windows\win.ini
+C:\windows\system.ini
+C:\windows\iis.log
+C:\windows\System32\Drivers\etc\hosts
+C:\Windows\system32\config\SYSTEM
+C:\windows\debug\netsetup.log
+C:\windows\debug\sammui.log
+C:\windows\debug\netlogon.log
+C:\windows\debug\passwd.log
+C:\windows\system32\winevt\logs\system.evtx
+C:\windows\system32\winevt\logs\Windows Powershell.evtx
+C:\windows\WindowsUpdate.log
+C:\windows\ccm\logs\filesystemfile.log
+C:\users\administrator\appdata\local\recently-used.xbel
+C:\users\administrator\desktop\desktop.ini
+C:\windows\panther\unattended.xml
+C:\windows\panther\unattended\unattended.xml
+C:\windows\repair\sam
+C:\windows\system32\tasks\daily
+C:\windows\panther\sysprep.inf
+C:\windows\system32\calc.exe
+C:\windows\system32\windowspowershell\v1.0\powershell.exe
